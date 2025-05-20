@@ -6,7 +6,7 @@ Drug repurposing plays a critical role in accelerating treatment discovery, espe
 
 ## Data Preparing 
 
-To prepare the data, you need to generate descriptions for your entities using a large language model, and then use the large language model to create embeddings for the entity names and descriptions. We provide the dataset and cases in [Google Driven]()
+To prepare the data, you need to generate descriptions for your entities using a large language model, and then use the large language model to create embeddings for the entity names and descriptions. We provide the dataset and cases in [Google Driven](https://drive.google.com/file/d/1ly0wjeqk7SKVGzl8gYOFzh8v67ED9eJk/view?usp=sharing)
 
 ## LLaDR Training & Evaluation:
 
