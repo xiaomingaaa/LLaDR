@@ -1,0 +1,101 @@
+0	DRUGBANK::ddi-interactor-in::Compound:Compound
+1	Hetionet::Gr>G::Gene:Gene
+2	Hetionet::GiG::Gene:Gene
+3	STRING::BINDING::Gene:Gene
+4	STRING::CATALYSIS::Gene:Gene
+5	INTACT::PHYSICAL ASSOCIATION::Gene:Gene
+6	GNBR::L::Gene:Disease
+7	STRING::OTHER::Gene:Gene
+8	Lincs::CuG::compound:gene
+9	STRING::REACTION::Gene:Gene
+10	GNBR::E+::Gene:Gene
+11	Hetionet::GcG::Gene:Gene
+12	INTACT::ASSOCIATION::Gene:Gene
+13	STRING::ACTIVATION::Gene:Gene
+14	GNBR::K::Compound:Gene
+15	Lincs::CdG::compound:gene
+16	INTACT::DIRECT INTERACTION::Gene:Gene
+17	DRUGBANK::target::Compound:Gene
+18	bioarx::HumGenHumGen:Gene:Gene
+19	DGIDB::OTHER::Gene:Compound
+20	Hetionet::CbG::Compound:Gene
+21	GNBR::T::Compound:Disease
+22	INTACT::COLOCALIZATION::Gene:Gene
+23	Hetionet::DaG::Disease:Gene
+24	GNBR::Sa::Compound:Disease
+25	DRUGBANK::treats::Compound:Disease
+26	bioarx::DrugVirGen:Compound:Gene
+27	Hetionet::CuG::Compound:Gene
+28	INTACT::DEPHOSPHORYLATION REACTION::Gene:Gene
+29	STARGEO::DdG::Gene:Disease
+30	Lincs::CGdown::compound:gene
+31	GNBR::N::Compound:Gene
+32	Lincs::CGup::compound:gene
+33	STRING::INHIBITION::Gene:Gene
+34	STRING::PTMOD::Gene:Gene
+35	Hetionet::CrC::Compound:Compound
+36	bioarx::DrugHumGen:Compound:Gene
+37	GNBR::Q::Gene:Gene
+38	GNBR::E+::Compound:Gene
+39	INTACT::PHOSPHORYLATION REACTION::Gene:Gene
+40	Hetionet::CdG::Compound:Gene
+41	DGIDB::INHIBITOR::Gene:Compound
+42	Hetionet::DuG::Disease:Gene
+43	GNBR::U::Gene:Disease
+44	GNBR::Rg::Gene:Gene
+45	GNBR::J::Gene:Disease
+46	GNBR::Te::Gene:Disease
+47	Hetionet::DdG::Disease:Gene
+48	GNBR::E::Compound:Gene
+49	GNBR::Z::Compound:Gene
+50	INTACT::ASSOCIATION::Compound:Gene
+51	DGIDB::MODULATOR::Gene:Compound
+52	GNBR::O::Compound:Gene
+53	GNBR::B::Compound:Gene
+54	DRUGBANK::enzyme::Compound:Gene
+55	GNBR::I::Gene:Gene
+56	STARGEO::DuG::Gene:Disease
+57	DGIDB::ANTAGONIST::Gene:Compound
+58	GNBR::X::Gene:Disease
+59	GNBR::V+::Gene:Gene
+60	GNBR::J::Compound:Disease
+61	Hetionet::DrD::Disease:Disease
+62	GNBR::E-::Compound:Gene
+63	DGIDB::POSITIVE ALLOSTERIC MODULATOR::Gene:Compound
+64	GNBR::Pr::Compound:Disease
+65	GNBR::Pa::Compound:Disease
+66	GNBR::B::Gene:Gene
+67	DGIDB::AGONIST::Gene:Compound
+68	GNBR::H::Gene:Gene
+69	Hetionet::CtD::Compound:Disease
+70	GNBR::Y::Gene:Disease
+71	GNBR::A-::Compound:Gene
+72	bioarx::VirGenHumGen:Gene:Gene
+73	GNBR::C::Compound:Disease
+74	GNBR::D::Gene:Disease
+75	GNBR::Md::Gene:Disease
+76	DGIDB::BLOCKER::Gene:Compound
+77	Hetionet::CpD::Compound:Disease
+78	STRING::EXPRESSION::Gene:Gene
+79	GNBR::G::Gene:Disease
+80	GNBR::A+::Compound:Gene
+81	INTACT::PROTEIN CLEAVAGE::Gene:Gene
+82	bioarx::Covid2_acc_host_gene::Disease:Gene
+83	DRUGBANK::carrier::Compound:Gene
+84	GNBR::E::Gene:Gene
+85	GNBR::W::Gene:Gene
+86	GNBR::Ud::Gene:Disease
+87	INTACT::UBIQUITINATION REACTION::Gene:Gene
+88	DGIDB::ALLOSTERIC MODULATOR::Gene:Compound
+89	INTACT::PHYSICAL ASSOCIATION::Compound:Gene
+90	DGIDB::ANTIBODY::Gene:Compound
+91	INTACT::DIRECT INTERACTION::Compound:Gene
+92	DGIDB::BINDER::Gene:Compound
+93	DGIDB::CHANNEL BLOCKER::Gene:Compound
+94	DGIDB::ACTIVATOR::Gene:Compound
+95	GNBR::Mp::Compound:Disease
+96	INTACT::ADP RIBOSYLATION REACTION::Gene:Gene
+97	DGIDB::PARTIAL AGONIST::Gene:Compound
+98	bioarx::Coronavirus_ass_host_gene::Disease:Gene
+99	relation
+100	INTACT::CLEAVAGE REACTION::Gene:Gene
